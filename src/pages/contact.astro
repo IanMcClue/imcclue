@@ -10,7 +10,7 @@ import Hero from '../components/Hero.astro';
 		<main class="wrapper contact">
 			<Hero
 				title="Contact"
-				tagline="Thanks for stopping by. Read below to learn more Contact myself and my background."
+				tagline="Thanks for stopping by. Read below to learn more about proejcts I am working on and how to contact me."
 			>
 				<img
 					width="1553"
@@ -21,36 +21,27 @@ import Hero from '../components/Hero.astro';
 			</Hero>
 
 			<section>
-				<h2 class="section-title">Background</h2>
-				<div class="content">
-					<p>
-						Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.
-						Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum
-						id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla
-						pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+				<h2 class="section-title">Projects</h2>
+				<div class="content section-content">
+					<p class="project-paragraph">
+						Project 1: <a href="https://astro.build/">Get Laid or Paid</a> preproduct startup tool to validate whether or not your product will have success.
 					</p>
-					<p>
-						Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis
-						natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl
-						condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel
-						quam elementum pulvinar etiam non.
+					<p class="project-paragraph">
+						Project 2: <a href="https://astro.build/">CoeusAI</a> AI consulting businesses providing bespoke solutions for businesses looking to use AI in business.
 					</p>
-					<p>
-						Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet
-						eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra.
-						Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl
-						pretium fusce.
+					<p class="project-paragraph">
+						Project 3: <a href="https://astro.build/">GlowupAI</a> social consumer AI photo app.
 					</p>
 				</div>
 			</section>
 			<section>
-				<h2 class="section-title">Education</h2>
+				<h2 class="section-title">Skills</h2>
 				<div class="content">
 					<p>Corporis voluptates tenetur laudantium.</p>
 				</div>
 			</section>
 			<section>
-				<h2 class="section-title">Skills</h2>
+				<h2 class="section-title">Contact</h2>
 				<div class="content">
 					<p>officia unde omnis</p>
 				</div>
@@ -91,6 +82,10 @@ import Hero from '../components/Hero.astro';
 		grid-column: 2 / 4;
 	}
 
+	.project-paragraph {
+		margin: 10px;
+	}
+
 	.content :global(a) {
 		text-decoration: 1px solid underline transparent;
 		text-underline-offset: 0.25em;
@@ -116,5 +111,4 @@ import Hero from '../components/Hero.astro';
 			display: contents;
 			font-size: var(--text-lg);
 		}
-	}
 </style>
