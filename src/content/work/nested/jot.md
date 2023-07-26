@@ -6,9 +6,9 @@ img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Results-driven Head of Growth & Strategy: VC-backed by leading funds, executed viral campaigns, and achieved exponential user growth.
 tags:
-  - Startup
-  - Leadership
   - Growth
+  - Leadership
+  - Product Management
 ---
 
 Realtime X developer of JOT secured over $4 million in funding from renowned investors, including Sam Altman and Alexis Ohanian, to drive the app's growth and expansion.
