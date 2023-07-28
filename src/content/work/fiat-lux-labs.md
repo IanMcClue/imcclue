@@ -1,7 +1,7 @@
 ---
 title: Fiat Lux Labs
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /assets/Fiat-lux-labs.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   Founded and led performance-optimized content agency, achieving 21% CAGR, 50+ million views, and partnerships with top brands.

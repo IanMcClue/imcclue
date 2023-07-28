@@ -1,7 +1,7 @@
 ---
 title: JOT App
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/jot-app.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Results-driven Head of Growth & Strategy: VC-backed by leading funds, executed viral campaigns, and achieved exponential user growth.

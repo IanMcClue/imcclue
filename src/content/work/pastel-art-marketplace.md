@@ -1,16 +1,17 @@
 ---
-title: Art B2B marketplace
+title: Pastel Art marketplace
 publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.jpg
+img: /assets/pastel-2.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  Head of Growth & Strategy for an Art B2B marketplace
+  Head of Growth & Strategy for an Art  marketplace
   achieved 100k social followers.
 tags:
   - Growth
   - Project 
   - Strategy
 ---
+>Scaled to 100k plus users
 
 As a trusted advisor and consultant, I provided valuable feedback on their art marketplace, leveraging my expertise to drive growth and success.
 
