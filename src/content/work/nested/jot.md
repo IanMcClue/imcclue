@@ -10,6 +10,7 @@ tags:
   - Leadership
   - Product Management
 ---
+> Revolutionizing Luxury Sales Activation Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
 Realtime X developer of JOT secured over $4 million in funding from renowned investors, including Sam Altman and Alexis Ohanian, to drive the app's growth and expansion.
 
