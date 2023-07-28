@@ -8,7 +8,7 @@ description: |
 tags:
   - Growth
   - Leadership
-  - Product Management
+  - Product
 ---
 > Revolutionizing Luxury Sales Activation Tell me and I forget. Teach me and I remember. Involve me and I learn.
 

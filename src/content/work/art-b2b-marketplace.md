@@ -8,7 +8,7 @@ description: |
   achieved 100k social followers.
 tags:
   - Growth
-  - Project Management
+  - Project 
   - Strategy
 ---
 
