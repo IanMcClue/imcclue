@@ -1,7 +1,7 @@
 ---
 title: Pastel Art marketplace
 publishDate: 2019-10-02 00:00:00
-img: /assets/pastel-2.jpg
+img: /assets/pastel-art2.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   Head of Growth & Strategy for an Art  marketplace

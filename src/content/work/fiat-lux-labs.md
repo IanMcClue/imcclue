@@ -11,7 +11,11 @@ tags:
   - Growth
 ---
 
+## Header
+
 Led a sales and media production team of six members, overseeing operations in the UK, US, and Australia. Effectively motivated and guided the team to achieve a 21% CAGR from 2016 to 2020, surpassing the target of 15% CAGR in revenue.
+
+>Temp highlight
 
 Managed social media channels, achieving a substantial total networking following of 1 million followers across all platforms. Implemented innovative strategies, including interactive campaigns and user-generated content contests, resulting in a 30% increase in overall engagement.
 
