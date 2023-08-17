@@ -13,15 +13,26 @@ tags:
 ---
 >Scaled to 100k plus users
 
-As a trusted advisor and consultant, I provided valuable feedback on their art marketplace, leveraging my expertise to drive growth and success.
+## Challenges 
 
-I took charge of managing social channels and successfully cultivated a dedicated following of over 100k through strategic activation campaigns. This not only boosted brand visibility but also increased engagement and user interaction. Delving deep into key KPI metrics, I conducted in-depth analysis on new user acquisition, retention, and DAU. These insights played a pivotal role in making data-driven decisions and optimizing marketing efforts.
+Establishing Pastel Network's brand amidst a competitive art marketplace.
+Amplifying user engagement and growth through social channels.
+Gleaning actionable insights from KPIs for user retention and daily activity.
+Balancing multiple projects in a fast-paced B2B environment.
+Fostering transparent dialogue with the user community for feedback
 
-To foster a strong connection with users and stakeholders, I spearheaded the establishment of Monthly AMAs (Ask Me Anything sessions). These sessions allowed participants to provide valuable product feedback, shaping our product development roadmap and delivering enhanced value. As an ambassador for the Pastel Team, I showcased our expertise both online and offline. I participated in speaking engagements on panels at conferences and podcasts, sharing valuable insights and contributing to the advancement of art marketplace technologies.
+## Strategy
 
-Within the dynamic B2B environment of Pastel Network, I efficiently managed multiple projects. My resource allocation skills ensured timely and budget-friendly deliveries, bolstering the company's reputation for reliability. Throughout my journey at Pastel Network, I encountered challenges head-on and developed innovative solutions. My problem-solving abilities played a pivotal role in achieving continuous growth and overcoming obstacles.
+Acted as an authoritative consultant for the art marketplace, focusing on its growth trajectory.
+Prioritized a data-centric approach, diving deep into KPI metrics.
+Initiated Monthly AMAs to maintain transparent engagement with users.
+Extended brand reach through speaking engagements and podcasts.
+Consistently monitored industry benchmarks, coupled with personal growth through workshops and certifications
 
-Staying ahead of the curve was essential in the art marketplace industry. I diligently monitored industry trends and competitors, implementing best practices that contributed to the company's leadership in marketplace technologies.
+## Solution 
 
-Awards and Recognitions:
-My dedication to excellence and outstanding achievements were recognized with prestigious awards and accolades. These acknowledgments are a testament to the impactful work delivered at Pastel Network. Committed to continuous learning and growth, I actively sought opportunities to expand my marketing expertise. Participation in workshops, conferences, and certifications enabled me to stay up-to-date with the latest trends and developments in the field.
+Elevated social channel presence, securing a following of 100k+.
+Utilized KPI insights to refine marketing endeavors, ensuring more robust user engagement.
+Enhanced product value through feedback from the Monthly AMAs.
+Positioned Pastel Team as industry thought leaders, both online and offline.
+Garnered awards for impactful contributions, underscoring the excellence at Pastel Network.
