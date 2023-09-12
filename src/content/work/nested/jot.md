@@ -10,7 +10,7 @@ tags:
   - Leadership
   - Product
 ---
-## Customer: JOT | Industry: Social consumer apps  
+### Customer: JOT | Industry: Social consumer apps  
  
 Realtime X developer of JOT secured over $4 million in funding from renowned investors, including Sam Altman and Alexis Ohanian, to drive the app's growth and expansion.
 
